@@ -153,6 +153,15 @@ header.top {
   padding-bottom: 5px;
 }
 
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  gap: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 .wordmark {
   display: flex;
   align-items: center;
@@ -216,6 +225,18 @@ header.top {
 .topbar nav a.lang:hover {
   border-color: var(--ink);
 }
+
+.topbar nav a.contact {
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  padding: 4px 14px;
+  line-height: 1.4;
+}
+
+.topbar nav a.contact:hover {
+  border-color: var(--ink);
+}
+
 
 /* hero */
 .hero {
