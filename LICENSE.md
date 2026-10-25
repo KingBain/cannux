@@ -1,5 +1,5 @@
 # Canadian Sovereign Software License (CSSL)
-**Version 1.2 — Experimental License**
+**Version 1.3 — Experimental License**
 
 Copyright (c) [2026] [Cannux]
 
@@ -19,7 +19,7 @@ Canadian incorporation alone does not qualify a foreign-owned or foreign-control
 
 ## 2. License Grant
 
-Each Rights Holder grants every Eligible User a worldwide, non-exclusive, royalty-free, perpetual license, subject to the conditions below, to:
+Each Rights Holder grants every Eligible User a worldwide, non-exclusive, royalty-free license, subject to the conditions below, to:
 
 - Access, use, execute, copy, modify, compile, and host Licensed Source Code.
 - Create and distribute modified versions.
@@ -36,21 +36,17 @@ Eligible Users may employ Canadian or foreign employees, contractors, hosting pr
 
 Such parties receive no independent rights to Licensed Source Code. The Eligible User must ensure that they are bound by appropriate use restrictions and remains responsible for their compliance.
 
-## 4. Distribution and Foreign Recipients
+## 4. Distribution and International Use
 
-Eligible Users may distribute Licensed Source Code, including its compiled forms within proprietary commercial products, provided they:
+Eligible Users may incorporate Licensed Source Code into commercial or proprietary applications and distribute those applications worldwide.
 
-- Preserve applicable copyright and license notices.
-- Include this License with distributed Licensed Source Code or accompanying product notices.
-- Identify modifications made to Licensed Source Code.
+Anyone receiving an application lawfully distributed by an Eligible User may install, execute, and use that application for its intended purpose, regardless of nationality or location.
 
-Eligible recipients obtain their rights directly under this License.
+This permission does not grant the recipient independent rights to modify, extract for reuse, or redistribute Licensed Source Code or its compiled components, except as expressly authorized by a separate license or by applicable law.
 
-Non-Eligible recipients do not receive permission under this License to independently install, execute, modify, or redistribute Licensed Source Code or its compiled forms. Such activities require separate permission from the applicable Rights Holders.
+Eligible Users distributing Licensed Source Code or its compiled forms must preserve applicable copyright and license notices, include a copy of this License, and identify modifications made to Licensed Source Code.
 
-Products and services may be offered internationally without granting foreign customers independent rights in Licensed Source Code that is not delivered to them.
-
-This License does not require publication of source code, disclosure of private modifications, or licensing of independently developed proprietary components.
+No publication of source code, disclosure of private modifications, or licensing of independently developed proprietary components is required.
 
 ## 5. Public Source Access
 
@@ -63,6 +59,8 @@ Public availability does not grant permission beyond this limited access and the
 Each Rights Holder contributing Licensed Source Code grants Eligible Users a worldwide, royalty-free, non-exclusive patent license to make, have made, use, sell, offer for sale, import, and distribute Licensed Source Code and its compiled forms.
 
 This grant covers only patent claims the Rights Holder can license that are necessarily infringed by its contribution, alone or combined with the Licensed Source Code to which it was contributed.
+
+The patent grant also permits recipients authorized under Section 4 to use lawfully distributed applications for their intended purpose, to the extent necessary to exercise that permission.
 
 If a recipient initiates patent litigation alleging that Licensed Source Code infringes its patents, the patent rights granted to that recipient under this License terminate.
 
@@ -84,4 +82,4 @@ No trademark rights are granted. Third-party code remains subject to its own lic
 
 ---
 
-**End of Canadian Sovereign Software License, Version 1.2.**
+**End of Canadian Sovereign Software License, Version 1.3.**
