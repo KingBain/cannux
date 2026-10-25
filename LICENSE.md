@@ -1,5 +1,5 @@
 # Canadian Sovereign Software License (CSSL)
-**Version 1.4 — Experimental License**
+**Version 1.5 — Experimental License**
 
 Copyright (c) [2026] [Cannux]
 
@@ -11,16 +11,24 @@ Copyright (c) [2026] [Cannux]
 
 Original modifications and independently developed components are not automatically licensed under CSSL.
 
-**Eligible User** means:
+**Eligible Individual** means:
 
-- A Canadian citizen or permanent resident acting on their own behalf.
+- A Canadian citizen or permanent resident, regardless of current residence; or
+- An individual ordinarily resident in Canada, regardless of citizenship or immigration status.
+
+**Ordinarily resident in Canada** means a person whose usual home is in Canada, rather than someone present solely for a temporary visit.
+
+**Eligible Organization** means:
+
 - A business established under Canadian law, principally managed in Canada, with more than 50% of its ultimate beneficial ownership and voting rights held by Canadian citizens or permanent residents, and not otherwise controlled by foreign persons or entities.
 - A Canadian nonprofit, cooperative, or other organization established under Canadian law, principally managed in Canada, and effectively controlled by Canadian citizens or permanent residents.
 - A Canadian federal, provincial, territorial, municipal, or Indigenous government, or a Canadian public institution.
 
+**Eligible User** means an Eligible Individual acting on their own behalf or an Eligible Organization.
+
 **Foreign control** means the power to direct an organization's management or policies through ownership, voting rights, contractual arrangements, or other means. Ordinary minority-investor protections alone do not establish foreign control.
 
-Canadian incorporation alone does not qualify a foreign-controlled organization. An individual's eligibility cannot be used to grant rights to an otherwise ineligible employer or client.
+Canadian incorporation alone does not qualify a foreign-controlled organization. An Eligible Individual acting on behalf of an organization may exercise rights under this License only if that organization is independently eligible. Personal eligibility cannot be used to grant rights to an otherwise ineligible employer or client.
 
 **Rights Holder** means a person or organization owning copyright or licensable patent rights in code expressly contributed or released under CSSL.
 
@@ -123,4 +131,4 @@ If any provision is unenforceable, the remaining provisions continue to apply to
 
 ---
 
-**End of Canadian Sovereign Software License, Version 1.4.**
+**End of Canadian Sovereign Software License, Version 1.5.**
