@@ -1,85 +1,126 @@
 # Canadian Sovereign Software License (CSSL)
-**Version 1.3 — Experimental License**
+**Version 1.4 — Experimental License**
 
 Copyright (c) [2026] [Cannux]
 
 ## 1. Definitions
 
-**Licensed Source Code** means source code expressly released under this License, including modifications of that code and compiled or executable forms derived from it. Independently developed code is not covered merely because it is combined with Licensed Source Code.
+**Licensed Source Code** means source code expressly released under this License by its copyright holder, including the original licensed portions retained in modified versions.
+
+**Covered Forms** means Licensed Source Code and compiled, executable, or other binary forms containing that code.
+
+Original modifications and independently developed components are not automatically licensed under CSSL.
 
 **Eligible User** means:
 
-- A Canadian citizen or permanent resident acting personally.
-- A business established under Canadian law, principally operating in Canada, with more than 50% of its ultimate beneficial ownership and voting rights held by Canadian citizens or permanent residents, and not otherwise controlled by foreign persons or entities.
-- A Canadian federal, provincial, territorial, municipal, or Indigenous government, or a Canadian public institution established under Canadian law and not foreign-controlled.
+- A Canadian citizen or permanent resident acting on their own behalf.
+- A business established under Canadian law, principally managed in Canada, with more than 50% of its ultimate beneficial ownership and voting rights held by Canadian citizens or permanent residents, and not otherwise controlled by foreign persons or entities.
+- A Canadian nonprofit, cooperative, or other organization established under Canadian law, principally managed in Canada, and effectively controlled by Canadian citizens or permanent residents.
+- A Canadian federal, provincial, territorial, municipal, or Indigenous government, or a Canadian public institution.
 
-Canadian incorporation alone does not qualify a foreign-owned or foreign-controlled subsidiary.
+**Foreign control** means the power to direct an organization's management or policies through ownership, voting rights, contractual arrangements, or other means. Ordinary minority-investor protections alone do not establish foreign control.
 
-**Rights Holder** means a person or entity holding copyright in Licensed Source Code or a contribution to it.
+Canadian incorporation alone does not qualify a foreign-controlled organization. An individual's eligibility cannot be used to grant rights to an otherwise ineligible employer or client.
+
+**Rights Holder** means a person or organization owning copyright or licensable patent rights in code expressly contributed or released under CSSL.
 
 ## 2. License Grant
 
-Each Rights Holder grants every Eligible User a worldwide, non-exclusive, royalty-free license, subject to the conditions below, to:
+Each Rights Holder grants Eligible Users a worldwide, non-exclusive, royalty-free license to:
 
-- Access, use, execute, copy, modify, compile, and host Licensed Source Code.
-- Create and distribute modified versions.
-- Incorporate Licensed Source Code into commercial or proprietary products and services.
-- Sell and distribute those products and services internationally.
+- Access, use, copy, run, compile, host, and modify Licensed Source Code.
+- Create modified or derivative works.
+- Incorporate Covered Forms into commercial or proprietary products and services.
+- Distribute and sell Covered Forms and resulting products internationally, subject to Section 4.
 
-No royalties are required for these activities.
+This grant applies only to rights that the Rights Holder owns or is authorized to license.
 
-These rights apply only while the recipient qualifies as an Eligible User and only to intellectual property the Rights Holder is authorized to license.
+**Modifications remain the property of their creators.** Developers may keep modifications private or license their original changes under separate terms, including proprietary terms. No rights in those original changes are granted to others merely because the changes were made to Licensed Source Code.
 
-## 3. Contractors and Cloud Services
+Separate terms must not remove rights that Eligible Users already receive in the underlying Licensed Source Code.
 
-Eligible Users may employ Canadian or foreign employees, contractors, hosting providers, and cloud services to operate or process Licensed Source Code solely on their behalf.
+CSSL does not require publication of source code or disclosure of private modifications.
 
-Such parties receive no independent rights to Licensed Source Code. The Eligible User must ensure that they are bound by appropriate use restrictions and remains responsible for their compliance.
+## 3. Contractors and Infrastructure
+
+Eligible Users may use employees, contractors, cloud providers, hosting services, development platforms, and automated tools located anywhere in the world to exercise their licensed rights.
+
+These parties may process or operate Covered Forms solely on behalf of the Eligible User, including under ordinary commercial service agreements.
+
+They receive no independent right to exploit, license, or redistribute Covered Forms. The Eligible User remains responsible for activities performed on its behalf.
 
 ## 4. Distribution and International Use
 
-Eligible Users may incorporate Licensed Source Code into commercial or proprietary applications and distribute those applications worldwide.
+Eligible Users may distribute Licensed Source Code and incorporate Covered Forms into finished commercial or proprietary applications for customers worldwide.
 
-Anyone receiving an application lawfully distributed by an Eligible User may install, execute, and use that application for its intended purpose, regardless of nationality or location.
+**A finished application** is a product incorporating Covered Forms and supplied for end use, rather than primarily for independent source-code development or reuse as a library or SDK.
 
-This permission does not grant the recipient independent rights to modify, extract for reuse, or redistribute Licensed Source Code or its compiled components, except as expressly authorized by a separate license or by applicable law.
+Anyone who lawfully receives a finished application from an Eligible User or its authorized distributor may install, execute, and use that application for its intended purpose, regardless of nationality or location.
 
-Eligible Users distributing Licensed Source Code or its compiled forms must preserve applicable copyright and license notices, include a copy of this License, and identify modifications made to Licensed Source Code.
+This permission includes copies reasonably necessary for installation, operation, updates, and backup. It does not grant independent rights to extract Covered Forms for reuse, modify the underlying Licensed Source Code, or redistribute Covered Forms as separate components, except where permitted by law or another applicable license.
 
-No publication of source code, disclosure of private modifications, or licensing of independently developed proprietary components is required.
+An Eligible User may authorize third parties to distribute its finished applications on its behalf. Such authorization does not grant those distributors independent development rights in the underlying Licensed Source Code.
 
-## 5. Public Source Access
+When distributing Covered Forms, Eligible Users must:
 
-Anyone may view and inspect publicly available Licensed Source Code and make copies reasonably necessary for that inspection.
+- Preserve applicable copyright and licensing notices.
+- Include a copy of this License or provide it with accompanying product notices.
+- Identify whether the Licensed Source Code has been modified.
 
-Public availability does not grant permission beyond this limited access and the rights expressly granted elsewhere in this License.
+Original proprietary components and modifications may remain under separate licenses.
+
+Providing access to a hosted service without transferring Covered Forms does not constitute distribution under this License.
+
+## 5. Public Access and Contributions
+
+Anyone may view, download, inspect, compile, run, and modify publicly available Licensed Source Code solely for:
+
+- Personal evaluation and nonproduction testing.
+- Security research and vulnerability reporting.
+- Preparing and submitting proposed contributions to the project.
+
+These permissions do not authorize independent commercial operation, production deployment, or general redistribution by non-Eligible Users.
+
+A contribution intentionally submitted for inclusion in a CSSL-licensed project is offered under CSSL unless the contributor and project maintainers expressly agree otherwise. Private modifications are not contributions merely because they exist.
+
+Nothing in this License limits permissions independently granted by applicable law or a hosting platform's terms.
 
 ## 6. Patent Rights
 
-Each Rights Holder contributing Licensed Source Code grants Eligible Users a worldwide, royalty-free, non-exclusive patent license to make, have made, use, sell, offer for sale, import, and distribute Licensed Source Code and its compiled forms.
+Each Rights Holder grants Eligible Users a worldwide, royalty-free, non-exclusive patent license to make, have made, use, sell, offer for sale, import, and distribute Covered Forms.
 
-This grant covers only patent claims the Rights Holder can license that are necessarily infringed by its contribution, alone or combined with the Licensed Source Code to which it was contributed.
+This grant covers only patent claims the Rights Holder can license that are necessarily infringed by the code it has expressly contributed under CSSL.
 
-The patent grant also permits recipients authorized under Section 4 to use lawfully distributed applications for their intended purpose, to the extent necessary to exercise that permission.
+Patent permission also extends to recipients using finished applications as permitted by Section 4.
 
-If a recipient initiates patent litigation alleging that Licensed Source Code infringes its patents, the patent rights granted to that recipient under this License terminate.
+If a recipient initiates patent litigation alleging that Covered Forms infringe its patents, the patent rights granted to that recipient under this License terminate.
 
-## 7. Contributions and Termination
+## 7. Eligibility, Termination, and Versions
 
-Contributions intentionally submitted for inclusion in Licensed Source Code are offered under this License unless otherwise agreed in writing.
+Eligibility must be maintained to exercise the rights reserved for Eligible Users.
 
-Rights under this License terminate automatically upon breach. Copyright license rights are reinstated if the breach is corrected within 30 days after written notice, except where termination results from loss of eligibility. Patent termination under Section 6 is unaffected.
+If an organization loses eligibility through ownership, control, or structural changes, it may continue operating existing deployments, fulfilling existing customer commitments, and providing security or maintenance updates for 90 days. Further activity requires renewed eligibility or separate permission from the applicable Rights Holders.
 
-Termination does not revoke rights already granted to other compliant recipients.
+Applications lawfully distributed before eligibility was lost remain authorized for their recipients under Section 4.
 
-## 8. Warranty and Liability
+Other license rights terminate if a breach remains uncorrected 30 days after written notice from an affected Rights Holder.
 
-THE LICENSED SOURCE CODE AND ITS COMPILED FORMS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+If eligibility is restored, the applicable permissions resume prospectively. Termination does not revoke permissions already granted to compliant recipients.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RIGHTS HOLDERS ARE NOT LIABLE FOR DAMAGES ARISING FROM USE OR DISTRIBUTION OF THE LICENSED SOURCE CODE OR ITS COMPILED FORMS.
+Software released under a particular CSSL version remains under that version unless its Rights Holder expressly offers different terms. New versions do not automatically replace earlier versions.
 
-No trademark rights are granted. Third-party code remains subject to its own licenses.
+## 8. Warranty, Liability, and Other Rights
+
+THE LICENSED SOURCE CODE AND COVERED FORMS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RIGHTS HOLDERS ARE NOT LIABLE FOR DAMAGES ARISING FROM THE USE OR DISTRIBUTION OF LICENSED SOURCE CODE OR COVERED FORMS.
+
+No trademark rights are granted.
+
+Third-party code remains subject to its own licenses. CSSL does not override rights or obligations established by those licenses.
+
+If any provision is unenforceable, the remaining provisions continue to apply to the extent permitted by law. No additional rights are granted by implication.
 
 ---
 
-**End of Canadian Sovereign Software License, Version 1.3.**
+**End of Canadian Sovereign Software License, Version 1.4.**
