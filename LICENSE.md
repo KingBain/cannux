@@ -1,137 +1,84 @@
 # Canadian Sovereign Software License (CSSL)
-
-**Version 1.0 — Draft for legal review**
-
-## Preamble
-
-The Canadian Sovereign Software License (CSSL) is a source-available software license intended to support Canadian technological sovereignty. It grants broad, royalty-free rights to eligible Canadian individuals, Canadian-owned and controlled organizations, and Canadian public institutions, while reserving independent use, modification, and redistribution rights for others.
-
-Source-code availability does not create unrestricted rights to the Software. This License is not an Open Source Initiative-approved open-source license.
-
+**Version 1.1 — Proposed Draft**
 ## 1. Definitions
 
-**Software** means the source code, object code, documentation, and other copyrightable materials expressly made available under this License by a person authorized to license those materials.
+**Covered Software** means software released under this License, including its source code, compiled forms, and covered portions incorporated into modified versions. Independently developed software is not automatically covered merely because it is combined with Covered Software.
 
-**Licensor** means a person or organization that owns or has authority to license rights in the Software or a Contribution and expressly offers those rights under this License.
+**Eligible User** means:
 
-**Covered Material** means the Software and any copyright-protected portion or adaptation of it. Separately licensed material does not become Covered Material merely because it is aggregated, packaged, or distributed with the Software.
+- A Canadian citizen or permanent resident acting personally.
+- A business established under Canadian law, principally operating in Canada, with more than 50% of its ultimate beneficial ownership and voting rights held by Canadian citizens or permanent residents, and not otherwise controlled by foreign persons or entities.
+- A Canadian federal, provincial, territorial, municipal, or Indigenous government, or a Canadian public institution established under Canadian law and not foreign-controlled.
 
-**Eligible Canadian Individual** means a Canadian citizen or Canadian permanent resident acting in their personal capacity or on behalf of an Eligible Canadian Organization. A person does not become eligible to exercise rights independently for an Ineligible Organization solely because that person is Canadian.
+Canadian incorporation alone does not qualify a foreign-owned or foreign-controlled subsidiary.
 
-**Eligible Canadian Organization** means:
+**Rights Holder** means a person or entity holding copyright in Covered Software or a contribution to it.
 
-1. A business established under the laws of Canada or a Canadian province or territory, having its principal place of business in Canada, in which Eligible Canadian Individuals or eligible Canadian public institutions ultimately hold **more than 50 percent of both beneficial ownership and voting interests**, and exercise effective strategic control;
-2. A Canadian federal, provincial, territorial, municipal, or Indigenous government, or a public authority, Crown corporation, or government institution established in Canada and controlled by such a government; or
-3. A nonprofit, educational, or research organization established and principally operating in Canada that is not ultimately controlled by an ineligible foreign person or organization.
+## 2. License Grant
 
-For eligibility purposes, control is assessed through direct and indirect ownership, voting arrangements, contractual rights, veto rights, nominees, trusts, and other arrangements conferring decisive influence. Incorporation in Canada alone does not qualify an organization controlled by a foreign parent. An otherwise eligible Canadian organization does not lose eligibility merely because it operates or sells internationally.
+Each Rights Holder grants every Eligible User a worldwide, non-exclusive, royalty-free, perpetual license, subject to the conditions below, to:
 
-**Eligible Licensee** means an Eligible Canadian Individual or Eligible Canadian Organization.
+- Use, execute, copy, modify, and host the Covered Software.
+- Create and distribute modified versions.
+- Incorporate the Covered Software into commercial or proprietary products and services.
+- Sell and distribute those products and services internationally.
 
-**Ineligible Recipient** means a person or organization that is not an Eligible Licensee, except when acting solely within the limited authorization for an Authorized Service Provider.
+No royalties are required for these activities.
 
-**Authorized Service Provider** means an employee, contractor, hosting provider, or other person or organization engaged by an Eligible Licensee to act solely for that licensee, subject to Section 5.
+These rights apply only while the recipient qualifies as an Eligible User and only to intellectual property the Rights Holder is authorized to license.
 
-**Contribution** means copyrightable material knowingly submitted by its authorized rights holder for inclusion in the Software and accepted for that purpose.
+## 3. Contractors and Cloud Services
 
-## 2. Copyright License for Eligible Licensees
+Eligible Users may employ Canadian or foreign employees, contractors, hosting providers, and cloud services to operate or process Covered Software solely on their behalf.
 
-Subject to compliance with this License, each Licensor grants each Eligible Licensee a non-exclusive, worldwide, royalty-free license, for the duration of the applicable copyright, to:
+Such parties receive no independent rights to the Covered Software. The Eligible User must ensure that they are bound by appropriate use restrictions and remains responsible for their compliance.
 
-1. Use, run, reproduce, inspect, and study the Software;
-2. Modify the Software and create derivative works;
-3. Incorporate Covered Material into commercial, proprietary, governmental, educational, research, and nonprofit projects;
-4. Distribute Covered Material in source or object-code form, modified or unmodified, subject to Sections 4 and 6; and
-5. Provide products and services incorporating Covered Material, including internationally, subject to this License.
+## 4. Distribution and Foreign Recipients
 
-The copyright license remains effective while the recipient qualifies and complies with this License. It is not sublicensable to confer independent CSSL rights on Ineligible Recipients. Rights under this License are granted by the relevant Licensors, not by downstream distributors.
+Eligible Users may distribute Covered Software, including within proprietary commercial products, provided they:
 
-## 3. Public Source Access
+- Preserve applicable copyright and license notices.
+- Include this License with distributed Covered Software or accompanying product notices.
+- Identify modifications made to Covered Software.
 
-Any person may access, download, retain, and inspect publicly released source code for evaluation, understanding, and security review. This permission includes copies reasonably necessary for those limited purposes.
+Eligible recipients obtain their rights directly under this License.
 
-Except where separately authorized, this Section does not permit an Ineligible Recipient to operate the Software for productive or commercial purposes, prepare and exploit modifications, or independently redistribute Covered Material.
+Non-Eligible recipients do not receive permission under this License to independently install, execute, modify, or redistribute Covered Software. Such activities require separate permission from the applicable Rights Holders.
 
-This License does not restrict rights independently provided by applicable law or by the terms of a source-code hosting service.
+Products and services may be offered internationally without granting foreign customers independent rights in Covered Software that is not delivered to them.
 
-## 4. Commercial Use and Foreign Recipients
+This License does not require publication of source code, disclosure of private modifications, or licensing of independently developed proprietary components.
 
-Eligible Licensees may use Covered Material in commercial and proprietary products and may sell products or provide services to customers anywhere in the world.
+## 5. Public Source Access
 
-Distribution to an Ineligible Recipient does not grant that recipient independent rights under Section 2. To exercise rights to operate, modify, or redistribute Covered Material beyond Section 3 or applicable law, the recipient must obtain separate permission from the relevant rights holders.
+Anyone may view and inspect publicly available Covered Software and make copies reasonably necessary for that inspection.
 
-An Eligible Licensee distributing Covered Material must give notice of these eligibility restrictions and may not represent that a foreign recipient has acquired broader CSSL rights.
+Public availability does not grant permission beyond this limited access and the rights expressly granted elsewhere in this License.
 
-Remote access to a hosted service operated and controlled by an Eligible Licensee does not, by itself, constitute distribution of Covered Material to the user of that service. This provision does not authorize a nominal Canadian intermediary to exercise rights principally for the independent benefit or under the effective operational control of an Ineligible Recipient.
+## 6. Patent Rights
 
-Independent software that does not contain or adapt Covered Material is not subject to this License merely because it interfaces with or is supplied alongside Covered Material.
+Each Rights Holder contributing Covered Software grants Eligible Users a worldwide, royalty-free, non-exclusive patent license to make, have made, use, sell, offer for sale, import, and distribute Covered Software.
 
-## 5. International Infrastructure and Service Providers
+This grant covers only patent claims the Rights Holder can license that are necessarily infringed by its contribution, alone or combined with the Covered Software to which it was contributed.
 
-Eligible Licensees may use infrastructure, employees, contractors, and service providers outside Canada to exercise the rights granted by Section 2.
+If a recipient initiates patent litigation alleging that Covered Software infringes its patents, the patent rights granted to that recipient under this License terminate.
 
-An Authorized Service Provider may perform acts otherwise permitted to its Eligible Licensee only if the provider:
+## 7. Contributions and Termination
 
-1. Acts solely on the licensee's documented instructions and for that licensee's benefit;
-2. Uses Covered Material only as needed to perform the authorized services;
-3. Does not acquire or assert independent rights to commercialize, use for unrelated customers, or redistribute Covered Material; and
-4. Ceases such acts when its authorization ends, except as required by applicable law.
+Contributions intentionally submitted for inclusion in Covered Software are offered under this License unless otherwise agreed in writing.
 
-A foreign parent, subsidiary, affiliate, customer, or service provider does not gain independent CSSL rights by virtue of its relationship with an Eligible Licensee.
+Rights under this License terminate automatically upon breach. Copyright license rights are reinstated if the breach is corrected within 30 days after written notice, except where termination results from loss of eligibility. Patent termination under Section 6 is unaffected.
 
-## 6. Redistribution Conditions
+Termination does not revoke rights already granted to other compliant recipients.
 
-Each Eligible Licensee distributing Covered Material must:
+## 8. Warranty and Liability
 
-1. Retain applicable copyright, patent, attribution, and license notices;
-2. Provide a copy of this License with the Covered Material;
-3. Identify material modifications made to Covered Material; and
-4. Clearly notify recipients of the eligibility requirements and the absence of automatic independent rights for Ineligible Recipients.
+THE COVERED SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-This License does not require publication of privately held modifications or independently developed proprietary source code. It does not waive or modify obligations imposed by separate licenses applicable to other material.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RIGHTS HOLDERS ARE NOT LIABLE FOR DAMAGES ARISING FROM USE OR DISTRIBUTION OF THE COVERED SOFTWARE.
 
-## 7. Patent Grant and Termination
+No trademark rights are granted. Third-party software remains subject to its own licenses.
 
-Each Licensor that makes a Contribution available under this License grants Eligible Licensees a non-exclusive, worldwide, royalty-free patent license to make, have made, use, offer for sale, sell, import, and otherwise transfer the Contribution as incorporated in the Software.
+---
 
-This patent grant covers only patent claims controlled and licensable by that Licensor that are necessarily infringed by the Contribution alone or by its combination with the Software into which it was originally submitted.
-
-If an Eligible Licensee commences patent litigation alleging that the Software or a Contribution infringes a patent, the patent rights granted to that licensee under this Section terminate on the date the claim is filed. Such termination does not itself terminate copyright rights otherwise in force.
-
-## 8. Contributions and Separate Licenses
-
-Contributors retain ownership of their Contributions unless they separately agree otherwise. Unless another agreement governs, a Contribution intentionally submitted and accepted for inclusion in the Software is offered under this License to Eligible Licensees.
-
-Submission of a Contribution does not, by itself, empower any other person to grant separate commercial or foreign-use licenses for that Contribution. Only a holder of the relevant rights, or a person with express authority from that holder, may grant such licenses.
-
-Licensors may offer separate permissions to Ineligible Recipients, including commercial or reciprocal licenses, on terms they choose.
-
-## 9. Compliance, Loss of Eligibility, and Termination
-
-If a licensee materially breaches this License, rights granted to that licensee under it terminate unless the breach is cured within 30 days after receipt of written notice identifying the breach.
-
-If a licensee ceases to qualify as an Eligible Licensee, it may no longer exercise rights under Section 2 for new activities requiring permission unless it obtains a separate license. Loss of eligibility does not extinguish rights independently granted under another valid license.
-
-Termination or loss of eligibility does not erase liability for earlier violations, alter statutory rights, or expand the rights of downstream recipients.
-
-## 10. Trademarks
-
-No right to use any Licensor's or Contributor's names, trademarks, service marks, or logos is granted, except as reasonably necessary to comply with notice and attribution requirements.
-
-## 11. Disclaimer of Warranties
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED **“AS IS”**, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
-
-## 12. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NO LICENSOR OR CONTRIBUTOR SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM THE SOFTWARE OR THIS LICENSE. NOTHING HERE EXCLUDES LIABILITY THAT APPLICABLE LAW DOES NOT PERMIT TO BE EXCLUDED.
-
-## 13. Governing Law
-
-Subject to mandatory applicable law, this License is governed by the laws of Canada and the laws of the Province of Ontario applicable therein. This provision does not establish exclusive jurisdiction or override mandatory legal protections.
-
-## 14. Third-Party Rights and Severability
-
-This License grants only rights the relevant Licensors have authority to grant. It does not revoke, supersede, or restrict permissions already available under another applicable license, including licenses applicable to third-party software.
-
-If any provision of this License is held unenforceable, the remaining provisions remain effective to the extent legally possible. All rights not expressly granted are reserved, subject to applicable law.
+**End of Canadian Sovereign Software License, Version 1.1.**
